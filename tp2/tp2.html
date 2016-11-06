@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+
+  <head>
+    <title>3/2016/TP2/formulaire.html</title>
+    <link rel="stylesheet" href="./css/formulaire.css" />
+    <script type="text/javascript" src="formulaire.js"></script>
+  </head>
+
+  <body>
+     <form action="">
+<h1>Saisie d'une fiche "Personne"</h1>
+<table>
+    <tr>
+      <td>Nom:</td>
+          <td><input type="text" name="Nom" id="Nom"></td>
+    </tr>
+
+    <tr>
+      <td>Prenom:</td>
+<td><input type="text" name="Prenom" id="Prenom" ></td>
+    </tr>
+
+    <tr>
+        <td>Date de naissance:</td>
+    <td><input placeholder="JJ/MM/AAAA" date="Date de naissance" id="Date de naissance"></td>
+        </tr>
+
+    <tr>
+      <td>Adresse:</td>
+          <td><input type="text" name="Adresse" id="Adresse"></td>
+    </tr>
+
+    <tr>
+      <td>Mail:</td>
+          <td><input type="text" name="Mail" id="Mail"></td>
+    </tr>
+
+    <tr>
+      <td></td>
+          <td><input type="button" onclick="validation();" value="Valider"/></td>
+    </tr>
+
+
+</table>
+
+</form>
+
+<div id="error" ></div>
+<div id="result"></div>
+
+
+ 
+  </body>
+
+</html>
