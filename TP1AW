@@ -1,0 +1,91 @@
+<html>
+ <head>
+<title>cv</title>
+<link rel="stylesheet" type="text/css" href="./cv.css"/>
+ </head>
+ <table width="100%" border="1">
+<tr>
+<td>DONG Xiao</td>
+<td>Célibataire</td>
+</tr>
+<tr>
+<td>93 Villetaneuse</td>
+<td>Permis B</td>
+</tr>
+<tr>
+<td colspan="2">06 06 16 16 16</td>
+</tr>
+<tr>
+<td colspan="2"><a href="www.google.com">276980495@qq.com</a></th>
+ 
+</tr>
+ </table>
+ <body>
+ <h1 align="center">Ingénieur d'études et développement</h1>
+ <table width="100%" border="1">
+ <h2>Formations</h2>
+<tr>
+<td>2016</td>
+<td><a href="www.google.com">Master2 3IR</a> à l'université Paris XIII</td>
+</tr>
+<tr>
+<td>2014</td>
+<td><a href="www.google.com">Licence Telecom</a> à l'université Paris XIII</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>Bac S</td>
+</tr>
+ </table>
+
+ <table width="100%" border="1">
+ <h2>Compétences</h2>
+<tr>
+<td>Développement</td>
+<td>JAVA 7.HTML</td>
+</tr>
+<tr>
+<td>Base de données</td>
+<td>MySQL.PostgreSQL</td>
+</tr>
+<tr>
+<td>Réseaux</td>
+<td>IPV6,LAN,WIFI</td>
+</tr>
+<tr>
+<td>Langues</td>
+<td>Anglais:bilingue, Français:bilingue, Chinois：maternel</td>
+</tr>
+ </table>
+ <table width="100%" border="1">
+ <h2>Expériences</h2>
+<tr>
+<td>2016</td>
+<td>Stage de fin d'études chez <img src="téléchargement.PNG" width="6%" height="20%" /></td>
+</tr>
+<tr>
+<td>2014</td>
+<td>Stage chez<img src="edf.PNG" width="6%" height="20%"/></td>
+</tr>
+<tr>
+<td>2011</td>
+<td>Bac S</td>
+</tr>
+ </table>
+ <table width="100%" border="1">
+ <h2>Centres d'intérets</h2>
+<tr>
+<td>Sport</td>
+<td>Running , football</td>
+</tr>
+<tr>
+<td>Culture</td>
+<td>Cinema , Musée</td>
+</tr>
+<tr>
+<td>Voyages</td>
+<td>Vietnam, Espagne，Italy</td>
+</tr>
+ </table>
+</body>
+</html>
