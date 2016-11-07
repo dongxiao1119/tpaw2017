@@ -1,0 +1,15 @@
+.modal_fade
+{
+	top: 350px;
+	display: none;
+}
+
+#fermer
+{
+	float: right;
+}
+
+.floatleft
+{
+	float: left;
+}
